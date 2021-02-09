@@ -1,0 +1,7 @@
+{
+    "AppSyncApiName": "grrapp",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-authcra-devw-120738-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/7a34fb5d30a00f55da146fc61a92219b9a4083fc"
+}
